@@ -1,0 +1,15 @@
+Sehr einfache und daher auch nicht sehr effiziente Implmentierung
+einer NCList-Datenstruktur in C++.
+
+Das Projekt benötigt einen modernen C++-Compiler (z.B. gcc 4.9+)
+und CMake. Der Quellcode für die NCList befindet sich in nclist.cpp
+und nclist.hpp. In main.cpp wird die Datenstruktur benutzt.
+
+Kompilieren:
+    (im Projektverzeichnis)
+
+    $ mkdir build && cd build
+    $ cmake ..
+    $ make
+
+    Dann kann mit ./nclist das Programm ausgeführt werden.
