@@ -13,3 +13,6 @@ Kompilieren:
     $ make
 
     Dann kann mit ./nclist das Programm ausgeführt werden.
+
+NCLists werden beschrieben in
+   Alexander V. Alekseyenko und Christopher J. Lee: Nested Containment List (NCList): a new algorithm for accelerating interval query of genome alignment and interval databases
